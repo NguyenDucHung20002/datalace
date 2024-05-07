@@ -1,0 +1,51 @@
+@media (max-width:768px) {
+    #cardFeature{
+        height: 6em !important;
+    }
+    #cardFeature:hover{
+        height: 13em !important;
+        overflow: visible !important;
+    }
+}
+@media (max-width:1024px) {
+    #cardFeature{
+        height: 6em !important;
+    }
+    #cardFeature:hover{
+        height: 12em !important;
+        overflow: visible !important;
+    }
+}
+
+#cardFeature{
+    height: 6.2em ;
+    background: #4f4f4f;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    overflow:hidden;
+    margin: 0% 1%;
+    padding: 1%;
+}
+
+#cardFeature:hover{
+    height: 10em;
+    overflow: visible !important;
+}
+
+.cardWorks{
+    background: #4f4f4f;
+    margin: 1%;
+    border-radius: 5px;
+    padding: 3%;
+}
+.requestDemo{
+    height: 100vh;
+    width: 100%;
+    color: white !important;
+    display: flex;
+    align-items: center;
+}
+.requestDemo form{
+    height: fit-content;
+}

@@ -1,0 +1,11 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "104081997798.dkr.ecr.us-east-1.amazonaws.com/deploy:v2.12"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 80
+    }
+  ]
+}

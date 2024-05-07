@@ -1,0 +1,11 @@
+.tabInMenu:hover {
+    background: #40848c !important;
+}
+
+.btn-newChat:hover {
+    background: #40848c !important;
+}
+
+.tabInMenu:active {
+    background: #40848c !important;
+}

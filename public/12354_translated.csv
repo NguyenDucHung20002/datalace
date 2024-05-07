@@ -1,0 +1,479 @@
+Document day;Document number;Customer's code;Product code;Product name;Unit;Sell number;Unit price;Sales;VAT;Total payment;Bill date; Bill numbers;Customer name;Total amount sold;Discount;Total amount returned;Return value;Discount value
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N07033;Wheat Flour No. 8 Red Apple 500g_10kg;Box;1;200000;200000;0;200000;;;NO NE RESTAURANT;1;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M04N02015;Salt TL 454g;Pkt;10;7000;70000;0;70000;;;NO NE RESTAURANT;10;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;10;32500;325000;0;325000;;;NO NE RESTAURANT;10;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01030;Pulppy multi-purpose rolling paper 2c/lot;Roll;10;29000;290000;0;290000;;;NO NE RESTAURANT;10;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M01N06019;Imported Refined Sugar 50 kg;Kg;5;23500;117500;0;117500;;;NO NE RESTAURANT;5;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;5;49000;245000;0;245000;;;NO NE RESTAURANT;5;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M04N02007;Palm sugar 500g (According to current prices);Kg;5;30000;150000;0;150000;;;NO NE RESTAURANT;5;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01192;Sunlight Floor Cleaner 3.8kg*3;Bottle;4;69500;278000;0;278000;;;NO NE RESTAURANT;4;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M05N01062;Wasabi Green Mustard S & B 43g*10;Tube;3;25000;75000;0;75000;;;NO NE RESTAURANT;3;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N04011;Simply Soybean Oil 5L *4 (According to current prices);Bottle;4;348000;1392000;0;1392000;;;NO NE RESTAURANT;4;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M05N01057;Maille seed mustard 210g*6 bots;Jar;3;87000;261000;0;261000;;;NO NE RESTAURANT;3;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01066;PE nylon bags (from 0.5kg -5kg);Kg;6;43500;261000;0;261000;;;NO NE RESTAURANT;6;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01068;HD foam bags (from 1kg - 20kg);Kg;2;39000;78000;0;78000;;;NO NE RESTAURANT;2;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01227;Zipper bag 18cm*23cm;Kg;1;59500;59500;0;59500;;;NO NE RESTAURANT;1;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M11N01065;PVC M Wrap Red Apple roll 45cm*600m;Scroll;1;288000;288000;0;288000;;;NO NE RESTAURANT;1;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N04028;TA Cooking Oil 25kg (According to current prices);Bottle;2;980000;1960000;0;1960000;;;NO NE RESTAURANT;2;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M05N01037;Maggi Soy Sauce 700ml*12bot;Bottle;3;26500;79500;0;79500;;;NO NE RESTAURANT;3;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N03001;Refined Vinegar 2L *6 bots;Bottle;2;37000;74000;0;74000;;;NO NE RESTAURANT;2;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M04N03003;Knorr Chicken Powder plastic can 1kg*6;Jar;1;135000;135000;0;135000;;;NO NE RESTAURANT;1;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M03N03004;Rainforest Honey 1.35 kg *12;Bottle;1;162000;162000;0;162000;;;NO NE RESTAURANT;1;0;0;0;0
+01/02/2023 0:00;BH_T2_001;KH_NONE;M07N07016;T.Ky Sticky Rice Flour 400g_9.6kg;Package;5;18000;90000;0;90000;;;NO NE RESTAURANT;5;0;0;0;0
+01/02/2023 0:00;BH_T2_002;KH_CTYVLOTUS;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;10;207273;2072730;207273;2280003;01/02/2023 0:00;31;V LOTUS HOLDINGS JOINT STOCK COMPANY;10;0;0;0;0
+01/02/2023 0:00;BH_T2_003;KH_CTYTPHOASEN;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;5;207273;1036365;103637;1140002;01/02/2023 0:00;30;HOA SEN FOOD PROCESSING JOINT STOCK COMPANY;5;0;0;0;0
+01/02/2023 0:00;BH_T2_004;KH_TC_METROPOLE_10%;M05N01062;Wasabi Green Mustard S & B 43g*10;Tube.;2;27000;54000;5400;59400;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M07N05043;Ginkgo without skin 250g*40;Package;2;29000;58000;5800;63800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;24;17000;408000;40800;448800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;30;23500;705000;70500;775500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;30;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;30;33500;1005000;100500;1105500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;30;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M04N01035;VA Exported Turmeric Powder 500g;Pkt;2;55500;111000;11100;122100;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_005;KH_TC_GALA_10%;M07N11003;Sa Giang Green Shrimp Puffs 500g*24bag;Kg;12;67500;810000;81000;891000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+02/02/2023 0:00;BH_T2_006;KH_TC_GALA_KCT;M04N01001;Black Pepper (according to current prices);Kg;2;102000;204000;0;204000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_006;KH_TC_GALA_KCT;M07N06047;Small dried shrimp canteen;Kg;2;450000;900000;0;900000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_006;KH_TC_GALA_KCT;M07N06030;Skinless green beans;Kg;1;44000;44000;0;44000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;1;0;0;0;0
+02/02/2023 0:00;BH_T2_006;KH_TC_GALA_KCT;M07N10004;Black cat mushrooms 10kg/barrel (According to current prices);Kg;2;180000;36000;0;36000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+02/02/2023 0:00;BH_T2_007;KH_MYMOTHER_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;2;30500;61000;6100;67100;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+02/02/2023 0:00;BH_T2_007;KH_MYMOTHER_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;2;52500;105000;10500;115500;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+02/02/2023 0:00;BH_T2_007;KH_MYMOTHER_10%;M08N01022;Coconut milk TL KC 22% fat 400ml*24;Can;5;29500;147500;14750;162250;28/02/2023 0:00;59;HUGE-FAM LLC;5;0;0;0;0
+02/02/2023 0:00;BH_T2_007;KH_MYMOTHER_10%;M11N01030;Pulppy multi-purpose rolling paper 2c/lot;Loc;5;29000;145000;14500;159500;28/02/2023 0:00;59;HUGE-FAM LLC;5;0;0;0;0
+02/02/2023 0:00;BH_T2_008;KH_MYMOTHER_TQK_10%;M07N01030;DHP premium egg noodles 454g*20 pkt;Package;16;36500;584000;58400;642400;28/02/2023 0:00;62;HUGE-FAM LLC;16;0;0;0;0
+02/02/2023 0:00;BH_T2_008;KH_MYMOTHER_TQK_10%;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;953500;953500;95350;1048850;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+02/02/2023 0:00;BH_T2_009;KH_MYMOTHER_10%;M02N02003;Cooking Cream AC 1L*12;Box;3;156500;469500;46950;516450;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+02/02/2023 0:00;BH_T2_009;KH_MYMOTHER_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;3;34000;102000;10200;112200;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+02/02/2023 0:00;BH_T2_009;KH_MYMOTHER_10%;M11N01266;Sunlight Lemon Dishwashing Liquid 100 bags 3.5 kg*6;Pkt;3;89000;267000;26700;293700;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+02/02/2023 0:00;BH_T2_010;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;5;73000;36500;0;36500;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+02/02/2023 0:00;BH_T2_011;KH_CIVI;M07N07083;Tapioca Flour Export T.Kg 1kg*10kg;Bin;5;270000;1350000;135000;1485000;04/02/2023 0:00;35;CIVI COMPANY LIMITED;5;0;0;0;0
+03/02/2023 0:00;BH_T2_012;KH_MYMOTHER_10%;M08N01022;Coconut milk TL KC 22% fat 400ml*24;Can;5;29500;147500;14750;162250;28/02/2023 0:00;59;HUGE-FAM LLC;5;0;0;0;0
+03/02/2023 0:00;BH_T2_012;KH_MYMOTHER_10%;M04N06008;Lobo Thai Hot Pot Seasoning 1kg*12;Hu;1;241500;241500;24150;265650;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+03/02/2023 0:00;BH_T2_013;KH_MYMOTHER_KCT;M07N06018;Thai Sticky Rice;Kg;1;31000;31000;0;31000;28/02/2023 0:00;60;HUGE-FAM LLC;1;0;0;0;0
+03/02/2023 0:00;BH_T2_014;KH_MYMOTHER_5%;M09N01027;Frozen Peas 1kg/bag;Kg;1;89500;89500;4475;93975;28/02/2023 0:00;61;HUGE-FAM LLC;1;0;0;0;0
+03/02/2023 0:00;BH_T2_015;KH_MYMOTHER_TQK_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;2;30500;61000;6100;67100;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+03/02/2023 0:00;BH_T2_015;KH_MYMOTHER_TQK_10%;M07N07002;T.Ky Crispy Fried Flour 1kg*10kg;Kg;2;45000;90000;9000;99000;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+03/02/2023 0:00;BH_T2_015;KH_MYMOTHER_TQK_10%;M08N01013;Rock sugar 10kg (According to current prices);Kg;2;32000;64000;6400;70400;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+03/02/2023 0:00;BH_T2_015;KH_MYMOTHER_TQK_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;2;34000;68000;6800;74800;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+03/02/2023 0:00;BH_T2_016;KH_MYMOTHER_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;5;49000;245000;24500;269500;28/02/2023 0:00;59;HUGE-FAM LLC;5;0;0;0;0
+03/02/2023 0:00;BH_T2_016;KH_MYMOTHER_10%;M05N01046;TTT Nhi Ca Soy Sauce 500ml*24 bots;Bottle;24;7000;168000;16800;184800;28/02/2023 0:00;59;HUGE-FAM LLC;24;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;17;16000;272000;27200;299200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;17;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N07038;Balance Flour 25kg;Kg;50;22500;1125000;112500;1237500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;50;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;100;23500;2350000;235000;2585000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;100;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;16;52000;832000;83200;915200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;16;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M06N01048;Fiamma Coffee Paste 800g;Can;8;71000;568000;56800;624800;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;8;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;12;47000;564000;56400;620400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N01030;DHP premium egg noodles 454g*20 pkt;Package;40;36500;1460000;146000;1606000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;40;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N14002;Binh Tay base wine 29% _ 2.7L*6;Binh;3;142000;426000;42600;468600;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M08N02006;Royal Baking powder 450g*12;Can;3;127500;382500;38250;420750;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M07N05043;Ginkgo without skin 250g*40;Package;5;29500;147500;14750;162250;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M08N01149;Gold Reef Apricots soaked in sugar 825g*24;Can;2;80000;160000;16000;176000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+03/02/2023 0:00;BH_T2_017;KH_ADONGRIVER_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;2;26500;53000;5300;58300;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+03/02/2023 0:00;BH_T2_018;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;1;319500;319500;0;319500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+03/02/2023 0:00;BH_T2_018;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;1;270500;270500;0;270500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+03/02/2023 0:00;BH_T2_018;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;8;73000;58400;0;58400;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;8;0;0;0;0
+03/02/2023 0:00;BH_T2_019;KH_PHODINH_CN5;M07N07079;T.Ky Green Pancake Flour 1kg*10;Bin;3;298182;894546;89455;984001;04/02/2023 0:00;33;BRANCH 5 PHU DINH ONE MEMBER COMPANY LIMITED;3;0;0;0;0
+03/02/2023 0:00;BH_T2_020;KH_ADONGRIVER_10%;M02N01004;Unsalted AC butter 5kg*4;Kg;5;270000;1350000;135000;1485000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;16;52000;832000;83200;915200;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;16;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M08N01236;Rovin Jelly Powder 10g*12 packs/box_20 hours/box;Package;240;6000;1440000;144000;1584000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;240;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M05N01061;Crystal yellow mustard 454g*12;Bottle;6;66000;396000;39600;435600;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;6;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M05N01030;Hong Hanh Ngu Fish Sauce taste 4.9 L*2;Binh;4;92000;368000;36800;404800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;4;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M05N01035;Lien Thanh Longan Fish Sauce 35 degrees 600ml*12;Bottle;12;62500;750000;75000;825000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M07N14001;New Sticky Rice Wine 500ml*24;Bottle;24;9500;228000;22800;250800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+04/02/2023 0:00;BH_T2_021;KH_TC_GALA_10%;M05N01070;OK soy sauce 355g*12;Bottle;12;60000;720000;72000;792000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+04/02/2023 0:00;BH_T2_022;KH_TC_GALA_KCT;M04N01003;Peppercorn seeds kg bleached (according to current prices);Kg;3;188000;564000;0;564000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+04/02/2023 0:00;BH_T2_023;KH_PARKROYAL_10%;M09N01010;CTE Cau Tre sausage 500g*16;Pkt;3;76000;228000;22800;250800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+04/02/2023 0:00;BH_T2_023;KH_PARKROYAL_10%;M09N01004;Cau Tre Special Seafood Spring Rolls 500g*20;Pkt;3;65000;195000;19500;214500;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+04/02/2023 0:00;BH_T2_024;KH_PARKROYAL_10%;M04N01037;VA Five Spice Powder 10gr*50 pkt;Package;10;6000;60000;6000;66000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;10;0;0;0;0
+04/02/2023 0:00;BH_T2_025;KH_TC_GALA_10%;M04N07016;Paprika Chili Powder;Kg;2;475000;950000;95000;1045000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+04/02/2023 0:00;BH_T2_026;KH_TC_METROPOLE_10%;M07N08023;Ginseng room (lo party yard);Kg;4;455000;182000;18200;200200;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;4;0;0;0;0
+04/02/2023 0:00;BH_T2_026;KH_TC_METROPOLE_10%;M07N08051;Ninh Ha goji berries 500g;Kg;17;246000;41820;4182;46002;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;17;0;0;0;0
+04/02/2023 0:00;BH_T2_026;KH_TC_METROPOLE_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;12;26500;318000;31800;349800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;12;0;0;0;0
+04/02/2023 0:00;BH_T2_026;KH_TC_METROPOLE_10%;M04N04010;MDH Garam Masala 100g*50 pkt;Pkt;1;69500;69500;6950;76450;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+04/02/2023 0:00;BH_T2_027;KH_TC_METROPOLE_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;3;14000;42000;0;42000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+04/02/2023 0:00;BH_T2_027;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;2;73000;146000;0;146000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;2;0;0;0;0
+04/02/2023 0:00;BH_T2_027;KH_TC_METROPOLE_KCT;M08N01101;Walnuts _Walnut half;Kg;2;309500;619000;0;619000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;2;0;0;0;0
+04/02/2023 0:00;PTT2_03;KH_KH_PACOW;M07N02009;Fiamma Spaghetti (03) 500g;Pkt;100;27273;2727300;272730;3000030;04/02/2023 0:00;32;PACOW INTERNATIONAL COMPANY LIMITED;100;0;0;0;0
+06/02/2023 0:00;BH_T2_028;KH_MYMOTHER_10%;M02N02003;Cooking Cream AC 1L*12;Box;2;156500;313000;31300;344300;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+06/02/2023 0:00;BH_T2_028;KH_MYMOTHER_10%;M07N11042;Tri Hai seasoned fish sauce 300g*12;Hu;2;36000;72000;7200;79200;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+06/02/2023 0:00;BH_T2_028;KH_MYMOTHER_10%;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;953500;953500;95350;1048850;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+06/02/2023 0:00;BH_T2_029;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;5;270500;135250;0;135250;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+06/02/2023 0:00;BH_T2_029;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;7;73000;51100;0;51100;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;7;0;0;0;0
+06/02/2023 0:00;PTT2_04;KH_DUYTRUC;M01N06021;Long An clean sugar 12kg;Kg;10;279000;2790000;139500;2929500;;;DUE TRUC;10;0;0;0;0
+06/02/2023 0:00;PTT2_04;KH_DUYTRUC;M01N06016;Giang Hua pure granulated rock sugar 12kg;Bao;3;356000;1068000;53400;1121400;;;DUE TRUC;3;0;0;0;0
+06/02/2023 0:00;PTT2_04;KH_DUYTRUC;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;2;228000;456000;45600;501600;;;DUE TRUC;2;0;0;0;0
+07/01/2023 0:00;PTT2_05;KH_ONL_ GiaAn;M04N02030;Nhu Y Palm Sugar 1kg*20;Kg;250;30000;7500000;0;7500000;;;Gia An;250;0;0;0;0
+07/01/2023 0:00;PTT2_05;KH_ONL_ GiaAn;M07N10047;Malt 2kg*6;Hu;120;63000;7560000;0;7560000;;;Gia An;120;0;0;0;0
+07/02/2023 0:00;BH_T2_030;KH_MYMOTHER_TQK_10%;M04N03002;Knorr Tenderloin & Ribeye Seasoning 5kg*3 pkt;Pkt;1;264500;264500;26450;290950;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+07/02/2023 0:00;BH_T2_031;KH_MYMOTHER_TQK_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;10;26000;260000;13000;273000;28/02/2023 0:00;64;HUGE-FAM LLC;10;0;0;0;0
+07/02/2023 0:00;BH_T2_032;KH_MYMOTHER_10%;M04N02002;Ajinomoto Soup Powder190g*50 pkt;Pkt;50;5500;275000;27500;302500;28/02/2023 0:00;59;HUGE-FAM LLC;50;0;0;0;0
+07/02/2023 0:00;BH_T2_033;KH_PARKROYAL_10%;M06N01024;Sardines 3 girls 155g*100;Can;100;15500;1550000;155000;1705000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;100;0;0;0;0
+07/02/2023 0:00;BH_T2_033;KH_PARKROYAL_10%;M05N01024;Pet Chili Sauce 830g*12 Cholimex;Bottle;24;28500;684000;68400;752400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+08/02/2023 0:00;BH_T2_034;KH_PARKROYAL_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;20;26500;530000;26500;556500;27/02/2023 0:00;46;GARDEN PLAZA LIMITED;20;0;0;0;0
+08/02/2023 0:00;BH_T2_035;KH_PARKROYAL_10%;M05N01096;LKK Char Siu Sauce 240g*12;Hu;24;44000;1056000;105600;1161600;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+08/02/2023 0:00;BH_T2_036;KH_MYMOTHER_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;10;26000;260000;13000;273000;28/02/2023 0:00;61;HUGE-FAM LLC;10;0;0;0;0
+08/02/2023 0:00;BH_T2_037;KH_MYMOTHER_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;10;14500;145000;0;145000;28/02/2023 0:00;60;HUGE-FAM LLC;10;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M08N01019;Yellow longan (According to current price);Kg;5;166000;83000;8300;91300;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N10019;Green flat rice;Kg;3;39500;118500;11850;130350;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N11003;Sa Giang Green Shrimp Puffs 500g*24bag;Kg;235;67500;1586250;158625;1744875;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;235;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;30;33500;1005000;100500;1105500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;30;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N07068;Wheat flour No. 13 Baker Choice 1kg*20;Pkt;5;31500;157500;15750;173250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N07073;Baker Choice No. 11 Wheat Flour 1kg*20;Pkt;5;31500;157500;15750;173250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M04N01029;Hue Anh Hai chili powder 500g;Kg;2;252000;504000;50400;554400;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M05N01125;Abalone Sauce 380g*12;Bottle;12;68000;816000;81600;897600;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M04N06008;Lobo Thai Hot Pot Seasoning 1kg*12;Hu;12;239500;2874000;287400;3161400;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N04003;LKK sesame oil 207 ml*12;Bottle;12;54500;654000;65400;719400;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M07N14004;Pepper Wine L1-600ml*12;Bottle;12;85000;1020000;102000;1122000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+09/02/2023 0:00;BH_T2_038;KH_TC_GALA_10%;M05N01030;Hong Hanh Ngu Fish Sauce taste 4.9 L*2;Binh;4;92000;368000;36800;404800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;4;0;0;0;0
+09/02/2023 0:00;BH_T2_039;KH_TC_GALA_KCT;M04N01002;Ground black pepper (according to current prices);Kg;2;105000;210000;0;210000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+09/02/2023 0:00;BH_T2_039;KH_TC_GALA_KCT;M04N01044;Ground chili with seeds 500g;Kg;3;77500;232500;0;232500;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_039;KH_TC_GALA_KCT;M07N06021;Raw peanuts TN;Kg;3;57000;171000;0;171000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_039;KH_TC_GALA_KCT;M07N10037;Fairy hair 100g;Pkt;3;43000;129000;0;129000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_039;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;4;73000;292000;0;292000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;4;0;0;0;0
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M07N08023;Ginseng room (lo party yard);Kg;7;455000;318500;31850;350350;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;7;0;0;0;0
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M07N08051;Ninh Ha goji berries 500g;Kg;3;246000;73800;7380;81180;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;64;44500;2848000;284800;3132800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;64;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M07N10034;The train blows;Kg;5;86000;43000;4300;47300;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;5;0;0;0;0
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;8;26500;212000;21200;233200;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;8;0;0;0;0
+09/02/2023 0:00;BH_T2_040;KH_TC_METROPOLE_10%;M04N04010;MDH Garam Masala 100g*50 pkt;Pkt;1;69500;69500;6950;76450;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+09/02/2023 0:00;BH_T2_041;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;8;73000;584000;0;584000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;8;0;0;0;0
+09/02/2023 0:00;BH_T2_041;KH_TC_METROPOLE_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;3;14000;42000;0;42000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;12;164500;1974000;197400;2171400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M08N01161;G.Field Thai can 565g*24;Can;30;44500;1335000;133500;1468500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;30;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;24;16000;384000;38400;422400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;24;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M02N01004;Unsalted AC butter 5kg*4;Kg;5;256000;1280000;128000;1408000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N07038;Balance Flour 25kg;Kg;50;22500;1125000;112500;1237500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;50;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;16;52000;832000;83200;915200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;16;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;12;47000;564000;56400;620400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N04001;Nakydaco black sesame oil 250ml*12 (According to current prices);Bottle;12;57500;690000;69000;759000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N14002;Binh Tay base wine 29% _ 2.7L*6;Binh;3;142000;426000;42600;468600;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M08N02002;Aunt Michelle Baking Soda Powder 454g;Box;4;29500;118000;11800;129800;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;4;0;0;0;0
+09/02/2023 0:00;BH_T2_042;KH_ADONGRIVER_10%;M07N10030;Malt 1kg*12;Hu;2;32000;64000;6400;70400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+09/02/2023 0:00;BH_T2_043;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;1;270500;270500;0;270500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+09/02/2023 0:00;BH_T2_043;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;2;73000;146000;0;146000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+09/02/2023 0:00;BH_T2_044;KH_PARKROYAL_10%;M05N01086;LKK Vegetarian Oyster Oil 510ml*12;Bottle;12;45000;540000;54000;594000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+10/02/2023 0:00;BH_T2_045;KH_KHO_METROPOLE_10%;M05N01070;OK soy sauce 355g*12;Bottle;12;60000;720000;72000;792000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;12;0;0;0;0
+10/02/2023 0:00;BH_T2_045;KH_KHO_METROPOLE_10%;M07N14004;Pepper Wine L1-600ml*12;Bottle;12;85000;1020000;102000;1122000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;12;0;0;0;0
+10/02/2023 0:00;BH_T2_046;KH_TC_METROPOLE_10%;M07N08038;Cardamom;Kg;1;196500;196500;19650;216150;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+10/02/2023 0:00;BH_T2_046;KH_TC_METROPOLE_10%;M07N08051;Ninh Ha goji berries 500g;Kg;1;246000;246000;24600;270600;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+10/02/2023 0:00;BH_T2_046;KH_TC_METROPOLE_10%;M07N08023;Ginseng room (lo party yard);Kg;5;455000;227500;22750;250250;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;5;0;0;0;0
+10/02/2023 0:00;BH_T2_046;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;4;44500;178000;17800;195800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;4;0;0;0;0
+10/02/2023 0:00;BH_T2_047;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;5;73000;36500;0;36500;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;5;0;0;0;0
+10/02/2023 0:00;BH_T2_048;KH_ADONGRIVER_KCT;M12N01012;Nori seaweed (50 M)( According to current price );Pkt;2;141500;283000;0;283000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+10/02/2023 0:00;BH_T2_048;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;1;319500;319500;0;319500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+10/02/2023 0:00;BH_T2_048;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;1;270500;270500;0;270500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+10/02/2023 0:00;BH_T2_048;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;1;73000;73000;0;73000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+10/02/2023 0:00;BH_T2_049;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;6;164500;987000;98700;1085700;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+10/02/2023 0:00;BH_T2_049;KH_ADONGRIVER_10%;M07N01009;Hokkien noodles;Kg;19;23500;446500;44650;491150;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;19;0;0;0;0
+10/02/2023 0:00;BH_T2_049;KH_ADONGRIVER_10%;M08N01149;Gold Reef Apricots soaked in sugar 825g*24;Can;3;80000;240000;24000;264000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+10/02/2023 0:00;BH_T2_050;KH_MYMOTHER_TQK_KCT;M04N01004;Ground pepper (at current price);Kg;1;194500;194500;0;194500;28/02/2023 0:00;63;HUGE-FAM LLC;1;0;0;0;0
+10/02/2023 0:00;BH_T2_051;KH_MYMOTHER_TQK_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;2;30500;61000;6100;67100;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+10/02/2023 0:00;BH_T2_051;KH_MYMOTHER_TQK_10%;M07N07002;T.Ky Crispy Fried Flour 1kg*10kg;Kg;2;45000;90000;9000;99000;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+10/02/2023 0:00;BH_T2_052;KH_MYMOTHER_10%;M06N01022;Anchovies fish 50g *25 brand Lorea Gourmet -Spain;Box;3;59500;178500;17850;196350;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+10/02/2023 0:00;BH_T2_052;KH_MYMOTHER_10%;M07N05044;Mr. Kim's Cabbage Kimchi 500g*24;Box;2;36500;73000;7300;80300;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+10/02/2023 0:00;BH_T2_052;KH_MYMOTHER_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;2;34000;68000;6800;74800;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+10/02/2023 0:00;BH_T2_053;KH_CTYTPHOASEN;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;10;207273;2072730;207273;2280003;10/02/2023 0:00;36;HOA SEN FOOD PROCESSING JOINT STOCK COMPANY;10;0;0;0;0
+10/02/2023 0:00;PTT2_06;KH_ONL_ ANHPHONG;M07N07024;T.K Cornstarch;Bin;30;443056;13291680;0;12627096;;;ANH PHONG_Send Chanh Phuoc An to Cambodia;30;664584;0;0;0
+10/02/2023 0:00;PTT2_06;KH_ONL_ ANHPHONG;M07N07087;T.Ky Sticky Rice Flour 400g*24;Bin;120;440000;52800000;0;50160000;;;ANH PHONG_Send Chanh Phuoc An to Cambodia;120;2640000;0;0;0
+10/02/2023 0:00;PTT2_06;KH_ONL_ ANHPHONG;M07N07082;T.Ky Crispy Fried Flour 1kg*10;Bin;80;413519;33081520;0;31427444;;;ANH PHONG_Send Chanh Phuoc An to Cambodia;80;1654076;0;0;0
+11/02/2023 0:00;BH_T2_054;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;10;164500;1645000;164500;1809500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;10;0;0;0;0
+11/02/2023 0:00;BH_T2_054;KH_ADONGRIVER_10%;M08N01149;Gold Reef Apricots soaked in sugar 825g*24;Can;5;80000;400000;40000;440000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+11/02/2023 0:00;BH_T2_054;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;17;16000;272000;27200;299200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;17;0;0;0;0
+11/02/2023 0:00;BH_T2_055;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;1;319500;319500;0;319500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+11/02/2023 0:00;BH_T2_055;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;1;270500;270500;0;270500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+11/02/2023 0:00;BH_T2_055;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;5;73000;36500;0;36500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+11/02/2023 0:00;BH_T2_056;KH_PARKROYAL_10%;M08N01129;Red swallow yeast bread 500g*20;Pkt;3;68000;204000;20400;224400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+11/02/2023 0:00;BH_T2_056;KH_PARKROYAL_10%;M09N01010;CTE Cau Tre sausage 500g*16;Pkt;3;76000;228000;22800;250800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+11/02/2023 0:00;BH_T2_057;KH_MYMOTHER_TQK_10%;M07N04020;La Masia Extra Virgin Olive Oil 1L*12 bot _Spain;Bottle;2;179000;358000;35800;393800;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+11/02/2023 0:00;BH_T2_057;KH_MYMOTHER_TQK_10%;M06N01025;Yellow Tuna 185g*48;Can;2;28500;57000;5700;62700;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+11/02/2023 0:00;BH_T2_058;KH_MYMOTHER_TQK_10%;M07N11042;Tri Hai seasoned fish sauce 300g*12;Hu;5;37000;185000;18500;203500;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+13/02/2023 0:00;BH_T2_060;KH_PHODINH_CN6;M07N07079;T.Ky Green Pancake Flour 1kg*10;Bin;5;298182;1490910;149091;1640001;15/02/2023 0:00;38;BRANCH 6 PHU DINH ONE MEMBER COMPANY LIMITED;5;0;0;0;0
+13/02/2023 0:00;BH_T2_061;KH_PHODINH_CN7;M07N07079;T.Ky Green Pancake Flour 1kg*10;Bin;5;298182;1490910;149091;1640001;15/02/2023 0:00;39;BRANCH 7 PHU DINH ONE MEMBER COMPANY LIMITED;5;0;0;0;0
+14/02/2023 0:00;BH_T2_062;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;24;17000;408000;40800;448800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+14/02/2023 0:00;BH_T2_063;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;1;73000;73000;0;73000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;1;0;0;0;0
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M07N08023;Ginseng room (lo party yard);Kg;7;455000;318500;31850;350350;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;7;0;0;0;0
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M07N08051;Ninh Ha goji berries 500g;Kg;4;246000;98400;9840;108240;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;4;0;0;0;0
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;56;44500;2492000;249200;2741200;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;56;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;6;44500;267000;26700;293700;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;6;0;0;0;0
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M07N10034;The train blows;Kg;5;86000;43000;4300;47300;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;5;0;0;0;0
+14/02/2023 0:00;BH_T2_064;KH_TC_METROPOLE_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;16;26500;424000;42400;466400;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;16;0;0;0;0
+14/02/2023 0:00;BH_T2_065;KH_TC_METROPOLE_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;8;14000;112000;0;112000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;8;0;0;0;0
+14/02/2023 0:00;BH_T2_065;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;105;73000;766500;0;766500;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;105;0;0;0;0
+14/02/2023 0:00;BH_T2_066;KH_PARKROYAL_10%;M06N01012;Goodfarm Corn Seeds 425g*24;Can;24;20500;492000;49200;541200;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+14/02/2023 0:00;BH_T2_066;KH_PARKROYAL_10%;M05N01027;Hong Hanh Fish Sauce 20 protein 900ml *12bot PET;Bottle;12;49500;594000;59400;653400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+14/02/2023 0:00;BH_T2_067;KH_ADONGRIVER_10%;M07N08002;Bach Hop (According to current prices);Kg;2;295000;59000;5900;64900;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+14/02/2023 0:00;BH_T2_067;KH_ADONGRIVER_10%;M07N05043;Ginkgo without skin 250g*40;Package;1;29500;29500;2950;32450;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+14/02/2023 0:00;BH_T2_067;KH_ADONGRIVER_10%;M08N01149;Gold Reef Apricots soaked in sugar 825g*24;Can;5;80000;400000;40000;440000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+14/02/2023 0:00;BH_T2_067;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;18;16000;288000;28800;316800;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;18;0;0;0;0
+14/02/2023 0:00;BH_T2_068;KH_ADONGRIVER_KCT;M12N01012;Nori seaweed (50 M)( According to current price );Pkt;1;141500;141500;0;141500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+14/02/2023 0:00;BH_T2_068;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;3;73000;21900;0;21900;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+14/02/2023 0:00;BH_T2_069;KH_MYMOTHER_10%;M04N01007;VA colored cashew powder 500g;Kg;5;94500;47250;4725;51975;28/02/2023 0:00;59;HUGE-FAM LLC;5;0;0;0;0
+14/02/2023 0:00;BH_T2_069;KH_MYMOTHER_10%;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;953500;953500;95350;1048850;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+14/02/2023 0:00;BH_T2_069;KH_MYMOTHER_10%;M07N11042;Tri Hai seasoned fish sauce 300g*12;Hu;3;37000;111000;11100;122100;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+14/02/2023 0:00;BH_T2_069;KH_MYMOTHER_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;2;34000;68000;6800;74800;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+15/02/2023 0:00;BH_T2_070;KH_TC_METROPOLE_10%;M08N01123;Gelita Gelatin sheet 1kg (400 sheets )_Germany;Box;1;862000;862000;86200;948200;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+15/02/2023 0:00;BH_T2_070;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;2;44500;89000;8900;97900;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+15/02/2023 0:00;BH_T2_070;KH_TC_METROPOLE_10%;M07N02009;Fiamma Spaghetti (03) 500g;Pkt;2;29000;58000;5800;63800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+15/02/2023 0:00;BH_T2_070;KH_TC_METROPOLE_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;3;26500;79500;7950;87450;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;3;0;0;0;0
+15/02/2023 0:00;BH_T2_071;KH_TC_METROPOLE_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;3;14000;42000;0;42000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+15/02/2023 0:00;BH_T2_071;KH_TC_METROPOLE_KCT;M08N01101;Walnuts _Walnut half;Kg;2;309500;61900;0;61900;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;2;0;0;0;0
+15/02/2023 0:00;BH_T2_071;KH_TC_METROPOLE_KCT;M07N10037;Fairy hair 100g;Pkt;1;43000;43000;0;43000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;1;0;0;0;0
+15/02/2023 0:00;BH_T2_072;KH_PARKROYAL_10%;M07N05002;Gherkin baby melon 515g*12;Hu;12;30000;360000;36000;396000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+15/02/2023 0:00;BH_T2_072;KH_PARKROYAL_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;10;32000;320000;32000;352000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;10;0;0;0;0
+15/02/2023 0:00;BH_T2_073;KH_PARKROYAL_10%;M09N01010;CTE Cau Tre sausage 500g*16;Pkt;3;76000;228000;22800;250800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+15/02/2023 0:00;BH_T2_074;KH_MYMOTHER_TQK_10%;M04N03002;Knorr Tenderloin & Ribeye Seasoning 5kg*3 pkt;Pkt;1;264500;264500;26450;290950;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+15/02/2023 0:00;BH_T2_074;KH_MYMOTHER_TQK_10%;M05N01184;Cholimex seed paste 450g*24;Hu;3;18000;54000;5400;59400;28/02/2023 0:00;62;HUGE-FAM LLC;3;0;0;0;0
+15/02/2023 0:00;BH_T2_075;KH_MYMOTHER_TQK_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;2;34000;68000;6800;74800;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+15/02/2023 0:00;BH_T2_076;KH_KHOINGUYEN;M07N07083;Tapioca Flour Export T.Kg 1kg*10kg;Bin;15;257731;3865965;386597;4252562;15/02/2023 0:00;40;KHOI NGUYEN FOOD COMPANY LIMITED;15;0;0;0;0
+15/02/2023 0:00;BH_T2_078;KH_PARKROYAL_10%;M07N04003;LKK sesame oil 207 ml*12;Bottle;12;53000;636000;63600;699600;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M07N07036;Wheat Flour No. 8 Red Apple 1kg;Kg;10;21000;210000;0;210000;;;NO NE RESTAURANT;10;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M11N01030;Pulppy multi-purpose rolling paper 2c/lot;Loc;10;32500;325000;0;325000;;;NO NE RESTAURANT;10;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M01N06019;Imported Refined Sugar 50 kg;Kg;5;23500;117500;0;117500;;;NO NE RESTAURANT;5;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M05N01037;Maggi Soy Sauce 700ml*12bot;Bottle;2;26500;53000;0;53000;;;NO NE RESTAURANT;2;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;969000;969000;0;969000;;;NO NE RESTAURANT;1;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M05N01003;Chili Sauce 2.1L*6 bot Cholimex;Binh;1;61000;61000;0;61000;;;NO NE RESTAURANT;1;0;0;0;0
+15/02/2023 0:00;BH_T2_079;KH_NONE;M05N01004;Ketchup 2.1 L *6 bots Cholimex;Binh;3;61500;184500;0;184500;;;NO NE RESTAURANT;3;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+15/02/2023 0:00;BH_T2_079;KH_NONE;M04N01002;Ground black pepper (according to current prices);Kg;1;97000;97000;0;97000;;;NO NE RESTAURANT;1;0;0;0;0
+15/02/2023 0:00;BH_T2_080;KH_CTYTPHOASEN;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;10;207273;2072730;207273;2280003;15/02/2023 0:00;41;HOA SEN FOOD PROCESSING JOINT STOCK COMPANY;10;0;0;0;0
+15/02/2023 0:00;BH_T2_080;KH_CTYTPHOASEN;M07N07087;T.Ky Sticky Rice Flour 400g*24;Bin;1;400000;400000;40000;440000;15/02/2023 0:00;41;HOA SEN FOOD PROCESSING JOINT STOCK COMPANY;1;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M04N02006;Powdered sugar 12kg (According to current prices);Kg;5;29500;147500;14750;162250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;30;33500;1005000;100500;1105500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;30;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N07036;Wheat Flour No. 8 Red Apple 1kg;Kg;40;22500;900000;90000;990000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;40;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;40;23500;940000;94000;1034000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;40;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M04N02029;Ajinomoto wing puree MSG 5kg*4 (According to current prices);Pkt;8;303500;2428000;242800;2670800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;8;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;16;52000;832000;83200;915200;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;16;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M06N01022;Anchovies fish 50g *25 brand Lorea Gourmet -Spain;Box;5;62000;310000;31000;341000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N04020;La Masia Extra Virgin Olive Oil 1L*12 bot _Spain;Bottle;2;185000;370000;37000;407000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N03016;American Garden Apple Cider Vinegar 476ml *24_USA;Bottle;10;43500;435000;43500;478500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;10;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M05N01136;American Garden yellow mustard 397g*12;Bottle;10;71000;710000;71000;781000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;10;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M05N01030;Hong Hanh Ngu Fish Sauce taste 4.9 L*2;Binh;4;92000;368000;36800;404800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;4;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N14001;New Sticky Rice Wine 500ml*24;Bottle;72;9500;684000;68400;752400;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;72;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;20;16000;320000;32000;352000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;20;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M07N14009;Red Wine DL 0.75L*6;Bottle;6;85000;510000;51000;561000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;6;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;120;17000;2040000;204000;2244000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;120;0;0;0;0
+16/02/2023 0:00;BH_T2_082;KH_TC_GALA_10%;M05N01104;LKK Soy Sauce 2.31kg*6;Can;4;268500;1074000;107400;1181400;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;4;0;0;0;0
+16/02/2023 0:00;BH_T2_083;KH_TC_GALA_5%;M03N03004;Rainforest Honey 1.35 kg *12;Bottle;12;182000;2184000;109200;2293200;28/02/2023 0:00;52;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+16/02/2023 0:00;BH_T2_084;KH_TC_GALA_KCT;M04N01001;Black Pepper (according to current prices);Kg;2;108000;216000;0;216000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+16/02/2023 0:00;BH_T2_084;KH_TC_GALA_KCT;M04N01003;Peppercorn seeds kg bleached (according to current prices);Kg;5;193000;965000;0;965000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+16/02/2023 0:00;BH_T2_084;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;10;73000;730000;0;730000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;10;0;0;0;0
+16/02/2023 0:00;BH_T2_084;KH_TC_GALA_KCT;M07N06047;Small dried shrimp canteen;Kg;3;450000;1350000;0;1350000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+16/02/2023 0:00;BH_T2_085;KH_PHUCANKHANG;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;20;26000;520000;0;520000;;;Phuc An Khang Restaurant;20;0;0;0;0
+16/02/2023 0:00;BH_T2_085;KH_PHUCANKHANG;M07N07083;Tapioca Flour Export T.Kg 1kg*10kg;Bin;3;338500;1015500;0;1015500;;;Phuc An Khang Restaurant;3;0;0;0;0
+16/02/2023 0:00;BH_T2_085;KH_PHUCANKHANG;M07N07002;T.Ky Crispy Fried Flour 1kg*10kg;Kg;30;47000;1410000;0;1410000;;;Phuc An Khang Restaurant;30;0;0;0;0
+16/02/2023 0:00;BH_T2_086;KH_PARKROYAL_10%;M09N01004;Cau Tre Special Seafood Spring Rolls 500g*20;Pkt;2;65000;130000;13000;143000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;2;0;0;0;0
+16/02/2023 0:00;BH_T2_087;KH_PARKROYAL_10%;M03N03002;Crown Smooth Peanut Butter 340g*12;Hu;10;70500;705000;70500;775500;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;10;0;0;0;0
+16/02/2023 0:00;BH_T2_087;KH_PARKROYAL_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;24;17000;408000;40800;448800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+16/02/2023 0:00;BH_T2_087;KH_PARKROYAL_10%;M06N01012;Goodfarm Corn Seeds 425g*24;Can;24;20500;492000;49200;541200;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;13;164500;2138500;213850;2352350;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;13;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M07N01009;Hokkien noodles;Kg;75;23500;176250;17625;193875;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;75;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M08N01152;Gold Reef Peach 1/2 soaked in sugar 825g*24;Can;3;74500;223500;22350;245850;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M02N05007;Evaporated Carnation Milk 410ml*48;Can;6;26500;159000;15900;174900;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M02N01004;Unsalted AC butter 5kg*4;Kg;5;256000;1280000;128000;1408000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M07N07038;Balance Flour 25kg;Kg;50;22500;1125000;112500;1237500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;50;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;100;23500;2350000;235000;2585000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;100;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;16;52000;832000;83200;915200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;16;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M06N01048;Fiamma Coffee Paste 800g;Can;12;71000;852000;85200;937200;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;12;47000;564000;56400;620400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M07N01030;DHP premium egg noodles 454g*20 pkt;Package;60;36500;2190000;219000;2409000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;60;0;0;0;0
+16/02/2023 0:00;BH_T2_088;KH_ADONGRIVER_10%;M05N01102;LKK Sweet Sauce 2.2kg*6 (Hoisin);Can;2;244500;489000;48900;537900;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+16/02/2023 0:00;BH_T2_089;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;5;270500;135250;0;135250;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+16/02/2023 0:00;BH_T2_089;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;1;319500;319500;0;319500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+16/02/2023 0:00;BH_T2_089;KH_ADONGRIVER_KCT;M12N01012;Nori seaweed (50 M)( According to current price );Pkt;2;141500;283000;0;283000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+16/02/2023 0:00;BH_T2_089;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;5;73000;36500;0;36500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+16/02/2023 0:00;BH_T2_090;KH_MYMOTHER_10%;M05N01030;Hong Hanh Ngu Fish Sauce taste 4.9 L*2;Binh;2;93000;186000;18600;204600;28/02/2023 0:00;59;HUGE-FAM LLC;2;0;0;0;0
+16/02/2023 0:00;BH_T2_091;KH_MYMOTHER_KCT;M04N02015;Salt TL 454g;Pkt;4;8500;34000;0;34000;28/02/2023 0:00;60;HUGE-FAM LLC;4;0;0;0;0
+16/02/2023 0:00;BH_T2_092;KH_MYMOTHER_TQK_KCT;M07N06010;Hiep Long white sesame;Kg;5;85000;42500;0;42500;28/02/2023 0:00;63;HUGE-FAM LLC;5;0;0;0;0
+16/02/2023 0:00;BH_T2_092;KH_MYMOTHER_TQK_KCT;M07N10004;Black cat mushrooms 10kg/barrel (According to current prices);Kg;5;124000;62000;0;62000;28/02/2023 0:00;63;HUGE-FAM LLC;5;0;0;0;0
+16/02/2023 0:00;BH_T2_093;KH_MYMOTHER_TQK_10%;M07N10026;Shellless roasted peanuts;Kg;5;62000;31000;3100;34100;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+16/02/2023 0:00;BH_T2_093;KH_MYMOTHER_TQK_10%;M04N06008;Lobo Thai Hot Pot Seasoning 1kg*12;Hu;1;241500;241500;24150;265650;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+16/02/2023 0:00;BH_T2_093;KH_MYMOTHER_TQK_10%;M05N01195;Kewpie Mayonnaise Sauce 3kg;Gallons;1;228500;228500;22850;251350;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+16/02/2023 0:00;BH_T2_094;KH_KHO_METROPOLE_10%;M05N01125;Abalone Sauce 380g*12;Bottle;12;68000;816000;81600;897600;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;12;0;0;0;0
+16/02/2023 0:00;BH_T2_095;KH_PARKROYAL_10%;M05N01087;LKK Than Tai Oyster Oil 907ml*12;Bottle;12;59500;714000;71400;785400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+16/02/2023 0:00;BH_T2_096;KH_KH_PACOW;M04N01041;Garlic Powder Export VA 500g;Kg;20;107500;2150000;215000;2365000;18/02/2023 0:00;43;PACOW INTERNATIONAL COMPANY LIMITED;20;0;0;0;0
+17/02/2023 0:00;BH_T2_097;KH_PARKROYAL_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;30;26500;795000;39750;834750;27/02/2023 0:00;46;GARDEN PLAZA LIMITED;30;0;0;0;0
+17/02/2023 0:00;BH_T2_098;KH_TC_GALA_10%;M05N01104;LKK Soy Sauce 2.31kg*6;Can;2;268500;537000;53700;590700;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+17/02/2023 0:00;BH_T2_098;KH_TC_GALA_10%;M08N01152;Gold Reef Peach 1/2 soaked in sugar 825g*24;Can;3;74500;223500;22350;245850;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+17/02/2023 0:00;BH_T2_099;KH_TC_GALA_KCT;M08N01095;Almond slices 11.4kg;Kg;15;270500;405750;0;405750;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;15;0;0;0;0
+17/02/2023 0:00;BH_T2_099;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;5;73000;36500;0;36500;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+17/02/2023 0:00;BH_T2_100;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;11;164500;1809500;180950;1990450;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;11;0;0;0;0
+17/02/2023 0:00;BH_T2_100;KH_ADONGRIVER_10%;M08N01161;G.Field Thai can 565g*24;Can;15;44500;667500;66750;734250;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;15;0;0;0;0
+17/02/2023 0:00;BH_T2_100;KH_ADONGRIVER_10%;M07N08002;Bach Hop (According to current prices);Kg;1;295000;295000;29500;324500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+17/02/2023 0:00;BH_T2_100;KH_ADONGRIVER_10%;M07N05043;Ginkgo without skin 250g*40;Package;3;29500;88500;8850;97350;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+17/02/2023 0:00;BH_T2_100;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;14;16000;224000;22400;246400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;14;0;0;0;0
+17/02/2023 0:00;BH_T2_101;KH_ADONGRIVER_KCT;M12N01012;Nori seaweed (50 M)( According to current price );Pkt;2;141500;283000;0;283000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+17/02/2023 0:00;BH_T2_101;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;2;319500;639000;0;639000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+17/02/2023 0:00;BH_T2_101;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;5;270500;135250;0;135250;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+17/02/2023 0:00;BH_T2_102;KH_TC_METROPOLE_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;1;44500;44500;4450;48950;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+17/02/2023 0:00;BH_T2_102;KH_TC_METROPOLE_10%;M07N01010;Yi mian fresh;Kg;1;70000;70000;7000;77000;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+17/02/2023 0:00;BH_T2_102;KH_TC_METROPOLE_10%;M07N02009;Fiamma Spaghetti (03) 500g;Pkt;2;29000;58000;5800;63800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+17/02/2023 0:00;BH_T2_102;KH_TC_METROPOLE_10%;M12N01038;Sauce Bull dog Tonkotsu 300ml;Bottle;1;98000;98000;9800;107800;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+17/02/2023 0:00;BH_T2_103;KH_PARKROYAL_10%;M09N01010;CTE Cau Tre sausage 500g*16;Pkt;3;76000;228000;22800;250800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;3;0;0;0;0
+17/02/2023 0:00;BH_T2_103;KH_PARKROYAL_10%;M05N01024;Pet Chili Sauce 830g*12 Cholimex;Bottle;24;28500;684000;68400;752400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+18/02/2023 0:00;BH_T2_104;KH_MYMOTHER_10%;M01N02006;Lavie Premium mineral water 400ml*20;Bin;9;137000;1233000;123300;1356300;28/02/2023 0:00;59;HUGE-FAM LLC;9;0;0;0;0
+18/02/2023 0:00;BH_T2_105;KH_PARKROYAL_10%;M09N01004;Cau Tre Special Seafood Spring Rolls 500g*20;Pkt;2;65000;130000;13000;143000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;2;0;0;0;0
+18/02/2023 0:00;BH_T2_106;KH_MYMOTHER_TQK_10%;M02N01004;Unsalted AC butter 5kg*4;Kg;5;258500;1292500;129250;1421750;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+18/02/2023 0:00;BH_T2_107;KH_MYMOTHER_TQK_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;10;26000;260000;13000;273000;28/02/2023 0:00;64;HUGE-FAM LLC;10;0;0;0;0
+18/02/2023 0:00;BH_T2_108;KH_MYMOTHER_10%;M07N07036;Wheat Flour No. 8 Red Apple 1kg;Kg;1;22500;22500;2250;24750;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+18/02/2023 0:00;BH_T2_108;KH_MYMOTHER_10%;M07N07002;T.Ky Crispy Fried Flour 1kg*10kg;Kg;1;45000;45000;4500;49500;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+18/02/2023 0:00;BH_T2_108;KH_MYMOTHER_10%;M08N01013;Rock sugar 10kg (According to current prices);Kg;3;32000;96000;9600;105600;28/02/2023 0:00;59;HUGE-FAM LLC;3;0;0;0;0
+18/02/2023 0:00;BH_T2_109;KH_MYMOTHER_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;1;34000;34000;3400;37400;28/02/2023 0:00;59;HUGE-FAM LLC;1;0;0;0;0
+20/02/2023 0:00;BH_T2_110;KH_PARKROYAL_10%;M04N08007;Paprika Chili Powder 100g;Pkt;1;63000;63000;6300;69300;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;1;0;0;0;0
+20/02/2023 0:00;BH_T2_111;KH_TC_METROPOLE_10%;M08N01073;Vanilla Rayner essential oil 28ml*12 (Essance);Bottle;1;27000;27000;2700;29700;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+20/02/2023 0:00;BH_T2_111;KH_TC_METROPOLE_10%;M07N03006;Coracelli Balsamic Vinegar 1L *6 bot_Holland;Bottle;1;104000;104000;10400;114400;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+20/02/2023 0:00;BH_T2_111;KH_TC_METROPOLE_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;2;44500;89000;8900;97900;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+20/02/2023 0:00;BH_T2_111;KH_TC_METROPOLE_10%;M07N07036;Wheat Flour No. 8 Red Apple 1kg;Kg;20;22500;450000;45000;495000;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;20;0;0;0;0
+20/02/2023 0:00;BH_T2_112;KH_TC_METROPOLE_10%;M07N03003;Lisa Aji Rice Vinegar 4.9L*4;Binh;4;140000;560000;56000;616000;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;4;0;0;0;0
+21/02/2023 0:00;BH_T2_113;KH_PARKROYAL_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;4;32000;128000;12800;140800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;4;0;0;0;0
+21/02/2023 0:00;BH_T2_113;KH_PARKROYAL_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;10;36000;360000;36000;396000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;10;0;0;0;0
+21/02/2023 0:00;BH_T2_113;KH_PARKROYAL_10%;M05N01027;Hong Hanh Fish Sauce 20 protein 900ml *12bot PET;Bottle;12;49500;594000;59400;653400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+21/02/2023 0:00;BH_T2_114;KH_PARKROYAL_10%;M04N01037;VA Five Spice Powder 10gr*50 pkt;Package;10;6000;60000;6000;66000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;10;0;0;0;0
+21/02/2023 0:00;BH_T2_114;KH_PARKROYAL_10%;M07N09002;Cau Tre sponge skin spring rolls _Vegetarian filling 400g*24;Pkt;2;43000;86000;8600;94600;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;2;0;0;0;0
+21/02/2023 0:00;BH_T2_115;KH_MYMOTHER_TQK_10%;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;953500;953500;95350;1048850;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+21/02/2023 0:00;BH_T2_115;KH_MYMOTHER_TQK_10%;M07N15006;Kim Hung shrimp brick color tube 1.5g*10;Package;5;6500;32500;3250;35750;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+21/02/2023 0:00;BH_T2_115;KH_MYMOTHER_TQK_10%;M04N01007;VA colored cashew powder 500g;Kg;5;101000;50500;5050;55550;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+21/02/2023 0:00;BH_T2_115;KH_MYMOTHER_TQK_10%;M05N01030;Hong Hanh Ngu Fish Sauce taste 4.9 L*2;Binh;2;93000;186000;18600;204600;28/02/2023 0:00;62;HUGE-FAM LLC;2;0;0;0;0
+21/02/2023 0:00;BH_T2_116;KH_PARKROYAL_5%;M01N06019;Imported Refined Sugar 50 kg;Kg;30;26500;795000;39750;834750;27/02/2023 0:00;46;GARDEN PLAZA LIMITED;30;0;0;0;0
+21/02/2023 0:00;BH_T2_117;KH_DODO;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;5;0;0;0;0;;;DO DO MILK TEA;5;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M07N07036;Wheat Flour No. 8 Red Apple 1kg;Kg;10;20000;200000;0;200000;;;NO NE RESTAURANT;10;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M01N06019;Imported Refined Sugar 50 kg;Kg;3;23500;70500;0;70500;;;NO NE RESTAURANT;3;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M05N01062;Wasabi Green Mustard S & B 43g*10;Tube.;4;25000;100000;0;100000;;;NO NE RESTAURANT;4;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M11N01066;PE nylon bags (from 0.5kg -5kg);Kg;2;41000;82000;0;82000;;;NO NE RESTAURANT;2;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M11N01078;Foam gloves;Kg;1;57000;57000;0;57000;;;NO NE RESTAURANT;1;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M07N04028;TA Cooking Oil 25kg (According to current prices);Cal;1;969000;969000;0;969000;;;NO NE RESTAURANT;1;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M05N01003;Chili Sauce 2.1L*6 bot Cholimex;Binh;2;65000;130000;0;130000;;;NO NE RESTAURANT;2;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M05N01004;Ketchup 2.1 L *6 bots Cholimex;Binh;1;66000;66000;0;66000;;;NO NE RESTAURANT;1;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M05N01068;Tabasco Red Pepper Sauce 60ml* 72 bots;Bottle;1;55000;55000;0;55000;;;NO NE RESTAURANT;1;0;0;0;0
+21/02/2023 0:00;BH_T2_118;KH_NONE;M05N01037;Maggi Soy Sauce 700ml*12bot;Bottle;2;26500;53000;0;53000;;;NO NE RESTAURANT;2;0;0;0;0
+21/02/2023 0:00;PTT2_08;KH_BMNHUNGCHANGTRAI;M08N01006;Premium Fat Powder T.Ky 1kg*10;Bin;20;366000;7320000;0;7320000;;;BREAD OF THE BOYS;20;0;0;0;0
+22/02/2023 0:00;BH_T2_119;KH_PARKROYAL_10%;M07N07015;Tapioca Flour Export T.Kg 1kg*10kg;Kg;6;32000;192000;19200;211200;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;6;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M05N01066;Sauce HP sauce 255g*12;Bottle;4;85000;340000;34000;374000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;4;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M05N01067;Sauce Lea & Perrins 290ml *12;Bottle;3;142000;426000;42600;468600;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M07N03003;Lisa Aji Rice Vinegar 4.9L*4;Binh;4;140000;560000;56000;616000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;4;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;3;33500;100500;10050;110550;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M07N14002;Binh Tay base wine 29% _ 2.7L*6;Binh;12;142000;1704000;170400;1874400;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;12;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M07N14004;Pepper Wine L1-600ml*12;Bottle;12;85000;1020000;102000;1122000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;12;0;0;0;0
+22/02/2023 0:00;BH_T2_120;KH_KHO_METROPOLE_10%;M05N01035;Lien Thanh Longan Fish Sauce 35 degrees 600ml*12;Bottle;36;62500;2250000;225000;2475000;28/02/2023 0:00;53;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;36;0;0;0;0
+22/02/2023 0:00;BH_T2_121;KH_NONE;M04N02030;Nhu Y Palm Sugar 1kg*20;Kg;4;35000;140000;0;140000;;;NO NE RESTAURANT;4;0;0;0;0
+22/02/2023 0:00;PTT2_09;KH_KH_PACOW;M04N03003;Knorr Chicken Powder plastic can 1kg*6;Hu;10;121636;1216360;121636;1337996;28/02/2023 0:00;49;PACOW INTERNATIONAL COMPANY LIMITED;10;0;0;0;0
+22/02/2023 0:00;PTT2_09;KH_KH_PACOW;M05N01079;Knorr Demi Glace Sauce Mix Malaysia 1kg*6 (According to current prices );Hu;20;310240;6204800;620480;6825280;28/02/2023 0:00;49;PACOW INTERNATIONAL COMPANY LIMITED;20;0;0;0;0
+22/02/2023 0:00;PTT2_10;KH_ONL_ GiaAn;M07N10047;Malt 2kg*6;Hu;120;63000;7560000;0;7560000;;;Gia An;120;0;0;0;0
+22/02/2023 0:00;PTT2_10;KH_ONL_ GiaAn;M04N02030;Nhu Y Palm Sugar 1kg*20;Kg;200;30000;6000000;0;6000000;;;Gia An;200;0;0;0;0
+23/02/2023 0:00;BH_T2_122;KH_TC_METROPOLE_5%;M08N01014;Bien Hoa milled sugar 1kg;Pkt;2;49000;98000;4900;102900;28/02/2023 0:00;56;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;2;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;32;44500;1424000;142400;1566400;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;32;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M07N08023;Ginseng room (lo party yard);Kg;18;538000;968400;96840;1065240;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;18;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M07N08051;Ninh Ha goji berries 500g;Kg;7;246000;172200;17220;189420;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;7;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;85;44500;3782500;378250;4160750;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;85;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M06N01036;Button Mushroom 400g*12 (According to current prices);Can;35;38000;1330000;133000;1463000;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;35;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M07N10034;The train blows;Kg;5;86000;43000;4300;47300;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;5;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M04N04010;MDH Garam Masala 100g*50 pkt;Pkt;1;69500;69500;6950;76450;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M07N05020;Fragata Black Seedless Olive 350g*12;Can;1;41000;41000;4100;45100;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+23/02/2023 0:00;BH_T2_123;KH_TC_METROPOLE_10%;M07N02011;Fiamma Fusilli Twisted Pasta (82)500g*24 pkt;Pkt;2;32500;65000;6500;71500;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;2;0;0;0;0
+23/02/2023 0:00;BH_T2_124;KH_TC_METROPOLE_KCT;M07N08013;Cordyceps 100g;Pkt;3;35000;105000;0;105000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;3;0;0;0;0
+23/02/2023 0:00;BH_T2_124;KH_TC_METROPOLE_KCT;M07N10033;Red seaweed 2 pieces/package (According to current prices);Pkt;1;14000;14000;0;14000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;1;0;0;0;0
+23/02/2023 0:00;BH_T2_124;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;14;73000;1022000;0;1022000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;14;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M07N07001;Korean Cornstarch 500g *15kg;Kg;45;33500;1507500;150750;1658250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;45;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M07N07013;STB Tapioca Starch T.Kg 10kg/bag;Kg;30;23500;705000;70500;775500;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;30;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M06N01034;Giang Li asparagus with lock 430g*24 (According to current price);Can;24;35000;840000;84000;924000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;24;44500;1068000;106800;1174800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M07N10019;Green flat rice;Kg;5;39500;197500;19750;217250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M07N07012;Panko Golden Fried Flour 1kg*8kg;Kg;8;52000;416000;41600;457600;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;8;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M04N02006;Powdered sugar 12kg (According to current prices);Kg;5;29500;147500;14750;162250;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M07N14001;New Sticky Rice Wine 500ml*24;Bottle;24;9500;228000;22800;250800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M05N01070;OK soy sauce 355g*12;Bottle;12;60000;720000;72000;792000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;12;0;0;0;0
+23/02/2023 0:00;BH_T2_125;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;24;17000;408000;40800;448800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+23/02/2023 0:00;BH_T2_126;KH_TC_GALA_KCT;M07N06047;Small dried shrimp canteen;Kg;15;450000;675000;0;675000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;15;0;0;0;0
+23/02/2023 0:00;BH_T2_126;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;6;73000;438000;0;438000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;6;0;0;0;0
+23/02/2023 0:00;BH_T2_126;KH_TC_GALA_KCT;M07N06021;Raw peanuts TN;Kg;5;57000;285000;0;285000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+23/02/2023 0:00;BH_T2_126;KH_TC_GALA_KCT;M07N10002;Shiitake mushrooms A4 (According to current prices);Kg;1;282500;282500;0;282500;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;1;0;0;0;0
+23/02/2023 0:00;BH_T2_127;KH_TC_GALA_10%;M08N01236;Rovin Jelly Powder 10g*12 packs/box_20 hours/box;Package;480;6000;2880000;288000;3168000;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;480;0;0;0;0
+23/02/2023 0:00;BH_T2_128;KH_PARKROYAL_10%;M08N01129;Red swallow yeast bread 500g*20;Pkt;5;68000;340000;34000;374000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;5;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M07N07083;Tapioca Flour Export T.Kg 1kg*10kg;Bin;2;338500;677000;0;677000;;;Phuc An Khang Restaurant;2;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M07N07002;T.Ky Crispy Fried Flour 1kg*10kg;Kg;30;47000;1410000;0;1410000;;;Phuc An Khang Restaurant;30;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M08N01013;Rock sugar 10kg (According to current prices);Kg;10;29000;290000;0;290000;;;Phuc An Khang Restaurant;10;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M07N01030;DHP premium egg noodles 454g*20 pkt;Package;40;33000;1320000;0;1320000;;;Phuc An Khang Restaurant;40;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M07N03001;Refined Vinegar 2L *6 bots;Binh;18;38000;684000;0;684000;;;Phuc An Khang Restaurant;18;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M07N14001;New Sticky Rice Wine 500ml*24;Bottle;24;8000;192000;0;192000;;;Phuc An Khang Restaurant;24;0;0;0;0
+23/02/2023 0:00;BH_T2_129;KH_PHUCANKHANG;M05N01128;Sauce Catchup 750ml*12;Bottle;5;93000;465000;0;465000;;;Phuc An Khang Restaurant;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+23/02/2023 0:00;BH_T2_130;KH_MYMOTHER_TQK_10%;M08N01013;Rock sugar 10kg (According to current prices);Kg;5;32000;160000;16000;176000;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+23/02/2023 0:00;BH_T2_130;KH_MYMOTHER_TQK_10%;M08N01049;Fish jelly TL 50g*10;Pkt;5;34000;170000;17000;187000;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+23/02/2023 0:00;BH_T2_131;KH_MYMOTHER_TQK_KCT;M04N02010;Happy Price brand granular salt 1kg*20 pkt;Package;5;10000;50000;0;50000;28/02/2023 0:00;63;HUGE-FAM LLC;5;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M07N05043;Ginkgo without skin 250g*40;Package;2;29500;59000;5900;64900;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;11;164500;1809500;180950;1990450;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;11;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M07N03004;Tieu Vinegar 5L;Binh;2;45500;91000;9100;100100;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;12;47000;564000;56400;620400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;12;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M08N01161;G.Field Thai can 565g*24;Can;10;44500;445000;44500;489500;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;10;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M07N01009;Hokkien noodles;Kg;6;23500;141000;14100;155100;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M05N01102;LKK Sweet Sauce 2.2kg*6 (Hoisin);Can;2;244500;489000;48900;537900;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M05N01128;Sauce Catchup 750ml*12;Bottle;6;96000;576000;57600;633600;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+23/02/2023 0:00;BH_T2_132;KH_ADONGRIVER_10%;M07N08030;Box of Traditional Chinese Medicine Stewed Chicken;Box;24;16000;384000;38400;422400;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;24;0;0;0;0
+23/02/2023 0:00;BH_T2_133;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;1;270500;270500;0;270500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+23/02/2023 0:00;BH_T2_133;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;15;319500;479250;0;479250;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;15;0;0;0;0
+23/02/2023 0:00;BH_T2_133;KH_ADONGRIVER_KCT;M12N01012;Nori seaweed (50 M)( According to current price );Pkt;2;141500;283000;0;283000;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;2;0;0;0;0
+23/02/2023 0:00;BH_T2_133;KH_ADONGRIVER_KCT;M08N01026;Seedless red apples (According to current prices);Kg;6;73000;43800;0;43800;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+23/02/2023 0:00;BH_T2_134;KH_DUYTRUC;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;3;225000;675000;0;675000;;;DUE TRUC;3;0;0;0;0
+23/02/2023 0:00;BH_T2_134;KH_DUYTRUC;M07N07085;T. Ky Rice Flour 400g*24;Bin;1;367000;367000;0;367000;;;DUE TRUC;1;0;0;0;0
+23/02/2023 0:00;PTT2_11;KH_CHILOAN;M08N01006;Premium Fat Powder T.Ky 1kg*10;Bin;5;350000;1750000;0;1750000;;;LOAN;5;0;0;0;0
+23/02/2023 0:00;PTT2_12;KH_ JINSUNDAE;M05N01081;Kicap Indo black soy sauce*24 bots;Bottle;24;51000;1224000;0;1224000;;;JINSUNDAE KOREAN RESTAURANT;24;0;0;0;0
+24/02/2023 0:00;BH_T2_135;KH_TC_METROPOLE_10%;M08N01161;G.Field Thai can 565g*24;Can;12;44500;534000;53400;587400;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;12;0;0;0;0
+24/02/2023 0:00;BH_T2_135;KH_TC_METROPOLE_10%;M08N01162;G.Field Thai can fabric 565g*24;Can;1;44500;44500;4450;48950;28/02/2023 0:00;54;Branch of Que Huong Liberty Joint Stock Company - Metropole Convention & Wedding Center;1;0;0;0;0
+24/02/2023 0:00;BH_T2_136;KH_TC_METROPOLE_KCT;M08N01026;Seedless red apples (According to current prices);Kg;1;73000;73000;0;73000;28/02/2023 0:00;55;Branch of Que Huong Liberty Joint Stock Company-Metropole Convention & Wedding Center;1;0;0;0;0
+24/02/2023 0:00;BH_T2_137;KH_PARKROYAL_10%;M04N01037;VA Five Spice Powder 10gr*50 pkt;Package;5;6000;30000;3000;33000;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;5;0;0;0;0
+24/02/2023 0:00;PTT2_15;KH_ONL_JULY;M06N01002;Fiamma Coffee Paste 400g;Can;10;41000;410000;0;410000;;;JULY;10;0;0;0;0
+24/02/2023 0:00;PTT2_15;KH_ONL_JULY;M05N01176;Roza brand Tomato Ketchup 1kg;Package;12;36000;432000;0;432000;;;JULY;12;0;0;0;0
+25/02/2023 0:00;BH_T2_138;KH_PARKROYAL_10%;M05N01024;Pet Chili Sauce 830g*12 Cholimex;Bottle;24;28500;684000;68400;752400;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;24;0;0;0;0
+25/02/2023 0:00;BH_T2_138;KH_PARKROYAL_10%;M05N01096;LKK Char Siu Sauce 240g*12;Hu;12;44000;528000;52800;580800;27/02/2023 0:00;45;GARDEN PLAZA LIMITED;12;0;0;0;0
+25/02/2023 0:00;BH_T2_139;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;24;17000;408000;40800;448800;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;24;0;0;0;0
+25/02/2023 0:00;BH_T2_140;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;2;73000;146000;0;146000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;2;0;0;0;0
+25/02/2023 0:00;BH_T2_140;KH_TC_GALA_KCT;M07N06047;Small dried shrimp canteen;Kg;5;450000;225000;0;225000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;5;0;0;0;0
+25/02/2023 0:00;BH_T2_141;KH_ADONGRIVER_10%;M07N01009;Hokkien noodles;Kg;6;23500;141000;14100;155100;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;6;0;0;0;0
+25/02/2023 0:00;BH_T2_141;KH_ADONGRIVER_10%;M06N01015;Abalone 2-3/can Hong Kong*24;Can;3;164500;493500;49350;542850;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;3;0;0;0;0
+25/02/2023 0:00;BH_T2_141;KH_ADONGRIVER_10%;M08N01149;Gold Reef Apricots soaked in sugar 825g*24;Can;1;80000;80000;8000;88000;28/02/2023 0:00;57;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+25/02/2023 0:00;BH_T2_142;KH_ADONGRIVER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;1;319500;319500;0;319500;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;1;0;0;0;0
+25/02/2023 0:00;BH_T2_142;KH_ADONGRIVER_KCT;M08N01095;Almond slices 11.4kg;Kg;5;270500;135250;0;135250;28/02/2023 0:00;58;Branch of Saigon Cultural Items Joint Stock Company - A Dong Riverside Convention & Wedding Center.;5;0;0;0;0
+25/02/2023 0:00;BH_T2_143;KH_MYMOTHER_TQK_10%;M05N01039;Maggi Oyster Sauce 820g*12;Bottle;5;49000;245000;24500;269500;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+25/02/2023 0:00;BH_T2_143;KH_MYMOTHER_TQK_10%;M02N05010;Vinamilk TT fresh milk without sugar 1L*12;Box;1;34000;34000;3400;37400;28/02/2023 0:00;62;HUGE-FAM LLC;1;0;0;0;0
+25/02/2023 0:00;BH_T2_143;KH_MYMOTHER_TQK_10%;M07N02009;Fiamma Spaghetti (03) 500g;Pkt;6;29000;174000;17400;191400;28/02/2023 0:00;62;HUGE-FAM LLC;6;0;0;0;0
+25/02/2023 0:00;BH_T2_144;KH_JAPFA_CNBD3;M07N07102;Wheat Flour No. 8 Red Apple 1kg*20;Bin;1;363640;363640;36364;400004;28/02/2023 0:00;65;JAPFA COMFEED VIETNAM LIMITED LIABILITY COMPANY - BINH DUONG 3 BRANCH;1;0;0;0;0
+25/02/2023 0:00;BH_T2_144;KH_JAPFA_CNBD3;M07N07091;T.Ky Cornstarch 150g*48;Bin;2;404545;809090;80909;889999;28/02/2023 0:00;65;JAPFA COMFEED VIETNAM LIMITED LIABILITY COMPANY - BINH DUONG 3 BRANCH;2;0;0;0;0
+27/02/2023 0:00;BH_T2_145;KH_MYMOTHER_TQK_10%;M03N02008;Pistachio nuts;Kg;5;410000;205000;20500;225500;28/02/2023 0:00;62;HUGE-FAM LLC;5;0;0;0;0
+27/02/2023 0:00;BH_T2_146;KH_MYMOTHER_KCT;M03N02009;Binh Duong Raw Cashews Type 1 HCK 500g*20;Kg;2;322500;645000;0;645000;28/02/2023 0:00;60;HUGE-FAM LLC;2;0;0;0;0
+27/02/2023 0:00;BH_T2_147;KH_CTYTPHOASEN;M07N07086;STB Tapioca Starch T.Kg 10kg/bag;Bao;8;207273;1658184;165818;1824002;27/02/2023 0:00;44;HOA SEN FOOD PROCESSING JOINT STOCK COMPANY;8;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M04N02007;Palm sugar 500g (According to current prices);Kg;2;21000;42000;4200;46200;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;2;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M07N01030;DHP premium egg noodles 454g*20 pkt;Package;40;28500;1140000;114000;1254000;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;40;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M07N08038;Cardamom;Kg;5;95000;47500;4750;52250;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;5;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M07N10008;Oil-fried Thieu fish maw;Kg;42;165000;693000;69300;762300;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;42;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M07N10019;Green flat rice;Kg;15;26000;39000;3900;42900;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;15;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M08N01019;Yellow longan (According to current price);Kg;1;85000;85000;8500;93500;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;1;0;0;0;0
+27/02/2023 0:00;PTT2_16;KH_DANGQUANG_10%;M08N01024;Fiber ear spectrum;Kg;5;90000;45000;4500;49500;27/02/2023 0:00;47;DANG QUANG BUSINESS HOUSE;5;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M04N01001;Black Pepper (according to current prices);Kg;1;82000;82000;0;82000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;1;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M04N02010;Happy Price brand granular salt 1kg*20 pkt;Package;1;9000;9000;0;9000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;1;0;0;0;0
+;;;;;;;;;;;;;;;;;;
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M07N06005;Jasmine rice 5kg (According to current prices);Kg;350;17500;6125000;0;6125000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;350;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M07N06015;Goose Sticky Rice;Kg;20;16000;320000;0;320000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;20;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M07N06044;Dried small squid cooked in broth;Kg;2;90000;18000;0;18000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;2;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M07N06046;Crispy dried shrimp;Kg;2;300000;60000;0;60000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;2;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M07N10025;Cashew nuts color;Kg;2;23000;46000;0;46000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;2;0;0;0;0
+27/02/2023 0:00;PTT2_17;KH_DANGQUANG_KCT;M10N03005;Green Dried Tien Vua Vegetables (according to current prices);Kg;1;200000;200000;0;200000;27/02/2023 0:00;48;DANG QUANG BUSINESS HOUSE;1;0;0;0;0
+28/02/2023 0:00;BH_T2_148;KH_TC_GALA_10%;M06N01018;Vietnamese Creamed Corn 425g*24;Can;48;17000;816000;81600;897600;28/02/2023 0:00;50;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;48;0;0;0;0
+28/02/2023 0:00;BH_T2_149;KH_TC_GALA_KCT;M07N06047;Small dried shrimp canteen;Kg;1;450000;450000;0;450000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;1;0;0;0;0
+28/02/2023 0:00;BH_T2_149;KH_TC_GALA_KCT;M08N01026;Seedless red apples (According to current prices);Kg;3;73000;219000;0;219000;28/02/2023 0:00;51;Branch of Avia Management Company Limited - Gala Wedding & Convention Center;3;0;0;0;0
+28/02/2023 0:00;PTT2_18;KH_ONL_THYTHY;M05N01172;LKK Soy Sauce 500ml*12;Bottle;24;23500;564000;0;564000;;;THY THY_0936297592;24;0;0;0;0
+28/02/2023 0:00;PTT2_18;KH_ONL_THYTHY;pvc;SHIPPING COSTS;nan;1;30000;30000;0;30000;;;THY THY_0936297592;1;0;0;0;0
+;;;;nan ;nan ;645527;;380200430;18752689;393994459;;;nan ;645527;4958660;0;0;0

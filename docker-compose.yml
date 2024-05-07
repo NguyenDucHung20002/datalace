@@ -1,0 +1,13 @@
+version: "1"
+services:
+  deployment-react-prod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8085:80"
+    environment:
+      NODE_ENV: production
+    volumes:
+      - .:/home/app
+      - /home/app/node_modules

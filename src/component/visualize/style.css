@@ -1,0 +1,52 @@
+.block {
+  background: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.static {
+  background: blue;
+}
+
+.droppable-element {
+  height: 50px;
+  width: 250px;
+  background: skyblue;
+  margin: 10px;
+  border: 2px dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tooltip-btn-layout .tooltip-layout {
+  visibility: hidden;
+  position: absolute;
+  background-color: #555;
+  color: #fff;
+  width: 150px;
+  text-align: center;
+  border-radius: 6px;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.3s;
+  right: 100%; /* Thêm dòng này để đặt tooltip bên trái của nút */
+}
+
+.tooltip-layout::after {
+  padding-right: "10px";
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%; /* Thay đổi từ left sang right */
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent #555; /* Thay đổi thứ tự màu */
+}
+
+.tooltip-btn-layout:hover .tooltip-layout {
+  visibility: visible;
+  opacity: 1;
+}
+

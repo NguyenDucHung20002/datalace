@@ -1,0 +1,111 @@
+@media (min-width: 900px) {
+    .BlogPage .input-group {
+        width: 70% !important;
+    }
+
+
+}
+
+@media (max-width: 900px) {
+    .BlogPage .search {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 120px !important;
+
+    }
+
+    .btn-outline-secondary {
+        width: 60px !important
+    }
+}
+
+@media (min-width: 1200px) {
+    .BlogPage .m-xl-3 {
+        margin-top: 50px !important;
+    }
+
+}
+
+@media (max-width:1024px) {
+    .cardBlog {
+        padding: 1% !important;
+    }
+
+    .cardBlog p {
+        display: none !important;
+    }
+
+    .cardBlog .card-title {
+        text-align: center;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        /* Số dòng tối đa */
+        -webkit-box-orient: vertical;
+    }
+}
+
+.BlogPage {
+    display: flex;
+    flex-direction: column;
+    height: 100vh ;
+}
+
+.BlogPage .search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.BlogPage .input-group {
+    width: auto;
+}
+
+.BlogPage .input-group button:last-child {
+    margin-left: 5% !important;
+}
+
+.BlogPage .cardBlog {
+    max-width: 100%;
+    width: 75%;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+.blogText {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    /* Số dòng tối đa */
+    -webkit-box-orient: vertical;
+}
+
+.inputSearchBlog::placeholder {
+    color: white;
+}
+
+.btn-outline-secondary {
+    background: rgba(0, 0, 0, 0.25);
+    border: none;
+    border-bottom-right-radius: 30px !important;
+    border-top-right-radius: 30px !important;
+    text-align: center;
+    width: 10%;
+    border-left: 1px solid gray;
+}
+
+.cardBlog img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    height: auto !important;
+}
+
+.card {
+    border: none !important;
+    /* width:60% !important; */
+    margin-bottom: 5%
+}

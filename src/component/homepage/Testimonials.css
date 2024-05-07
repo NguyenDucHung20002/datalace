@@ -1,0 +1,75 @@
+.inner {
+  position: relative;
+  width: 100%;
+  padding-top: 2rem;
+  height: 13rem;
+  overflow: hidden;
+  -webkit-mask: linear-gradient(90deg,
+      transparent,
+      white 20%,
+      white 80%,
+      transparent);
+  mask: linear-gradient(90deg, transparent, white 20%, white 80%, transparent);
+}
+
+.wrapper {
+  position: absolute;
+  display: flex;
+  color: white !important;
+}
+
+section {
+  display: flex;
+  animation: swipe var(--speed) linear infinite backwards;
+}
+
+.wrapper:hover section {
+  animation-play-state: paused;
+}
+
+@keyframes swipe {
+  0% {
+    transform: translate(-100%);
+  }
+
+  100% {
+    transform: translate(0%);
+  }
+}
+
+.left {
+  display: flex;
+  animation: swipe2 var(--speed) linear infinite backwards;
+}
+
+@keyframes swipe2 {
+  0% {
+    transform: translate(0%);
+  }
+
+  100% {
+    transform: translate(-100%);
+  }
+}
+
+.reviewTitle h1 {
+  font-size: 5vw;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 2rem;
+}
+.card:hover{
+  /* box-shadow: 0.5em 0.5em  lightgrey;
+  transform: translateY(-0.5em); */
+}
+
+.reviewTitle{
+  background: rgb(50,54,63);
+  background: linear-gradient(0deg, rgba(50,54,63,1) 0%, rgba(255,255,255,1) 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
